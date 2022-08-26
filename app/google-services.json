@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112518431553",
+    "project_id": "online-food-delivery-sys-e5887",
+    "storage_bucket": "online-food-delivery-sys-e5887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112518431553:android:7734103b46f129266417c0",
+        "android_client_info": {
+          "package_name": "com.example.ocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112518431553-47a9ogb5kpet00sgnr0jqgr3kab4132p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDaXDgxd6KyIsd2eh1u4YmnFv5KNkgUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112518431553-47a9ogb5kpet00sgnr0jqgr3kab4132p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
