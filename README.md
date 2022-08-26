@@ -1,2 +1,2 @@
 # food ordering app
- Food Ordering App
+ Food Ordering App @ 0.1.0
